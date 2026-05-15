@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "/fathers-day", "permanent": false }
+  ]
+}
